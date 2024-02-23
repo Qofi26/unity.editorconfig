@@ -1,0 +1,1 @@
+# My EditorConfig for Unity
